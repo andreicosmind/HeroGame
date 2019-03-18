@@ -16,5 +16,3 @@ while Diaconu.health >0 and Oprisa.health > 0:
 print (Diaconu.health)
 print (Oprisa.health)
 
-
-print("muie")
